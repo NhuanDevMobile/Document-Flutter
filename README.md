@@ -3,7 +3,7 @@
 
 ## LINK
 
- - [Conver Json To Dart]([https://awesomeopensource.com/project/elangosundar/awesome-README-templates](https://app.quicktype.io/))
+ - [Conver Json To Dart](https://app.quicktype.io/)
 
 ## TERMINAL
 
