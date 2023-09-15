@@ -19,11 +19,6 @@ Chuyển môi trường Flutter
 export PATH=/Users/dtu/development/tools/flutter/bin:$PATH
 echo $PATH
 ```
-Chuyển môi trường Flutter
-```bash
-export PATH=/Users/dtu/development/tools/flutter/bin:$PATH
-echo $PATH
-```
 Chuyển certificate
 ```bash
 flutter config --clear-ios-signing-cert
